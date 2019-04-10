@@ -1,5 +1,7 @@
-<!-- markdownlint-disable MD003 MD032 -->
+<!-- markdownlint-disable MD003 MD032 MD038 -->
 # CSV 範本
+
+## 階層
 
 - 停車業管機關資料 [ParkingAuthorityList](ParkingAuthorityList.csv)
 - 停車營運機關資料 [ParkingOperatorList](ParkingOperatorList.csv)
@@ -9,3 +11,8 @@
     - 入口位置資訊 [ParkingEntranceExitList-Entrances](ParkingEntranceExitList-Entrances.csv)
     - 出口位置資訊 [ParkingEntranceExitList-Exits](ParkingEntranceExitList-Exits.csv)
     - 單一出入口位置資訊(出入口相同) [ParkingEntranceExitList-TwoInOne](ParkingEntranceExitList-TwoInOne.csv)
+
+## 備註
+
+1. 欄位名稱以星號`*`結尾的，代表選填欄位，例如 ``Geometry*``
+2. 欄位名稱以加號`+`結尾的，代表此欄位可能包含多筆內容，格式為 `` {第一筆,第二筆,...} ``

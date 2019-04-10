@@ -1,2 +1,2 @@
-CarParkID,ParkingAreaID,ParkingAreaName,ParkingTypes,Geometry*
+CarParkID,ParkingAreaID,ParkingAreaName,ParkingTypes+,Geometry*
 056,...,...,"{1,3}",...
