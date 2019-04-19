@@ -8,6 +8,6 @@ fi
 
 git add .
 git commit -m "$1"
-git push bash origin
+git push origin master
 
 echo "done"
