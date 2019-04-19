@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ParkingNewsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <UpdateTime>2016-08-16T10:03:12+08:00</UpdateTime>
+    <UpdateInterval>180</UpdateInterval>
+    <AuthorityCode>TPE</AuthorityCode>
+    <Newses>
+        <News>
+            <NewsID>001</NewsID>
+            <Language>Zh_tw</Language>
+            <OperatorID>80682490</OperatorID>
+            <OperatorName>
+                <Zh_tw>歐特儀股份有限公司</Zh_tw>
+                <En>test</En>
+                <Zh_cn>test</Zh_cn>
+                <Ja>test</Ja>
+                <Ko>test</Ko>
+            </OperatorName>
+            <Title>公告臺北市信義路5段150巷臨時平面停車場委託中信停車有限公司經營管理，實施24小時計時收費。</Title>
+            <NewsCategory>3</NewsCategory>
+            <Description>依據：一、停車場法第25條、29條、31條暨臺北市公有停車場收費費率自治條例第4條、第5條。二、臺北市公有路外停車場委託民間經營自治條例。</Description>
+            <NewsURL>http://www.altova.com</NewsURL>
+            <AttachmentURL>http://www.altova.com</AttachmentURL>
+            <PublishTime>2018-6-19T15:00:00+08:00</PublishTime>
+            <StartTime>2018-6-15T15:00:00+08:00</StartTime>
+            <EndTime>2021-5-31T24:00:00+08:00</EndTime>
+            <UpdateTime>2018-6-19T15:00:00+08:00</UpdateTime>
+        </News>
+    </Newses>
+</ParkingNewsList>

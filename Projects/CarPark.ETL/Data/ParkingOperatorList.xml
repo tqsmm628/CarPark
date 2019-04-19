@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParkingOperatorList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<UpdateTime>2017-05-03T17:30:08+08:00</UpdateTime>
+	<UpdateInterval>86400</UpdateInterval>
+	<AuthorityCode>CYI</AuthorityCode>
+	<Operators>
+		<Operator>
+			<OperatorID>80682490</OperatorID>
+			<OperatorName>
+				<Zh_tw>歐特儀股份有限公司</Zh_tw>
+				<En>test</En>
+				<Zh_cn>test</Zh_cn>
+				<Ja>test</Ja>
+				<Ko>test</Ko>
+			</OperatorName>
+			<Telephone>02-27057716</Telephone>
+			<Email>lancelin47@gmail.com</Email>
+			<Address>台北市中正區仁愛路2段99號5樓</Address>
+			<WebURL>http://www.altob.com.tw/</WebURL>
+			<LogoURL>http://www.altob.com.tw/logo.png</LogoURL>
+			<TsAndCsURL>http://www.altova.com</TsAndCsURL>
+			<BAN>80682490</BAN>
+		</Operator>
+	</Operators>
+</ParkingOperatorList>

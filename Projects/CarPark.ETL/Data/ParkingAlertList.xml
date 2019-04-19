@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ParkingAlertList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <UpdateTime>2018-06-19T10:03:12+08:00</UpdateTime>
+    <UpdateInterval>60</UpdateInterval>
+    <AuthorityCode>TPE</AuthorityCode>
+    <Alerts>
+        <Alert>
+            <AlertID>String</AlertID>
+            <OperatorID>80682490</OperatorID>
+            <OperatorName>
+                <Zh_tw>歐特儀股份有限公司</Zh_tw>
+                <En>test</En>
+                <Zh_cn>test</Zh_cn>
+                <Ja>test</Ja>
+                <Ko>test</Ko>
+            </OperatorName>
+            <Title>中正區北平東路（林森北路-杭州北路）公有路邊汽、機車停車位（區、彎、含人行道），暫停收費管理並禁止車輛停放。</Title>
+            <Description>{詳細說明區塊，由業務單位填寫資料，會有HTML標籤原始碼。}</Description>
+            <Status>0</Status>
+            <Scope>
+                <CarParks>
+                    <CarPark>
+                        <CarParkID>12345</CarParkID>
+                    </CarPark>
+                </CarParks>
+            </Scope>
+            <Effect>本府警察局執行「0612-0613專案」安全維護勤務所需，暫停中正區北平東路路邊暫停停車</Effect>
+            <Reason>活動</Reason>
+            <AlertURL>http://www.altova.com</AlertURL>
+            <StartTime>2018-6-12T20:00:00+08:00</StartTime>
+            <EndTime>2018-6-13T17:00:00+08:00</EndTime>
+            <PublishTime>2018-6-11T14:40:00+08:00</PublishTime>
+            <UpdateTime>2018-6-11T18:52:43+08:00 </UpdateTime>
+        </Alert>
+    </Alerts>
+</ParkingAlertList>
